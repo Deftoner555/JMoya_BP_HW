@@ -93,3 +93,10 @@ Content/StarterContent/*
 
 #Third Person
 Content/ThirdPerson/*
+
+#Characters
+Content/Characters/*
+
+#LevelPrototyping
+Content/LevelPrototyping/*
+
